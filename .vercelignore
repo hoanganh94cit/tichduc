@@ -1,0 +1,6 @@
+# Không đưa lên Vercel: máy chủ VPS (kèm dữ liệu), tài liệu, công cụ thử
+server/
+scripts/
+live/
+docs/
+*.md
