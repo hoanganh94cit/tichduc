@@ -3,7 +3,7 @@
   "private": true,
   "description": "Gõ mõ online, lịch âm, rút quẻ, chính điện 3D. Chạy trên VPS (server/) hoặc Vercel (api/).",
   "scripts": {
-    "start": "node server/index.js",
+    "vps": "node server/index.js",
     "test:api": "node scripts/test-api.js"
   },
   "engines": {
